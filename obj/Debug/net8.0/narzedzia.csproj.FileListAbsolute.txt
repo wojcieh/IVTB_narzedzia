@@ -1,0 +1,14 @@
+C:\Users\marcin\c#projekct\4TB\narzedzia\bin\Debug\net8.0\narzedzia.exe
+C:\Users\marcin\c#projekct\4TB\narzedzia\bin\Debug\net8.0\narzedzia.deps.json
+C:\Users\marcin\c#projekct\4TB\narzedzia\bin\Debug\net8.0\narzedzia.runtimeconfig.json
+C:\Users\marcin\c#projekct\4TB\narzedzia\bin\Debug\net8.0\narzedzia.dll
+C:\Users\marcin\c#projekct\4TB\narzedzia\bin\Debug\net8.0\narzedzia.pdb
+C:\Users\marcin\c#projekct\4TB\narzedzia\obj\Debug\net8.0\narzedzia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcin\c#projekct\4TB\narzedzia\obj\Debug\net8.0\narzedzia.AssemblyInfoInputs.cache
+C:\Users\marcin\c#projekct\4TB\narzedzia\obj\Debug\net8.0\narzedzia.AssemblyInfo.cs
+C:\Users\marcin\c#projekct\4TB\narzedzia\obj\Debug\net8.0\narzedzia.csproj.CoreCompileInputs.cache
+C:\Users\marcin\c#projekct\4TB\narzedzia\obj\Debug\net8.0\narzedzia.dll
+C:\Users\marcin\c#projekct\4TB\narzedzia\obj\Debug\net8.0\refint\narzedzia.dll
+C:\Users\marcin\c#projekct\4TB\narzedzia\obj\Debug\net8.0\narzedzia.pdb
+C:\Users\marcin\c#projekct\4TB\narzedzia\obj\Debug\net8.0\narzedzia.genruntimeconfig.cache
+C:\Users\marcin\c#projekct\4TB\narzedzia\obj\Debug\net8.0\ref\narzedzia.dll
